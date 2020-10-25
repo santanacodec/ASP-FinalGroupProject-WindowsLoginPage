@@ -1,0 +1,15 @@
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\bin\Debug\MysteryBytesSignIn.exe.config
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\bin\Debug\MysteryBytesSignIn.exe
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\bin\Debug\MysteryBytesSignIn.pdb
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MysteryBytesSignIn.csprojAssemblyReference.cache
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MainWindow.g.cs
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\App.g.cs
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MysteryBytesSignIn_MarkupCompile.cache
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MysteryBytesSignIn_MarkupCompile.lref
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MainWindow.baml
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MysteryBytesSignIn.g.resources
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MysteryBytesSignIn.Properties.Resources.resources
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MysteryBytesSignIn.csproj.GenerateResource.cache
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MysteryBytesSignIn.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MysteryBytesSignIn.exe
+C:\Users\Edgar Santana\source\repos\MysteryBytesSignIn\MysteryBytesSignIn\obj\Debug\MysteryBytesSignIn.pdb
