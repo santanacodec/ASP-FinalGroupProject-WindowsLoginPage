@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MB_Model;
 
 namespace MysteryBytesSignIn
 {
@@ -25,9 +26,13 @@ namespace MysteryBytesSignIn
             InitializeComponent();
         }
 
-        private void SignInButton_Click(object sender, RoutedEventArgs e)
+        private async void SignInButton_Click(object sender, RoutedEventArgs e)
         {
-
+            BLL.BLL b = new BLL.BLL();
+            DTO_Login u = new DTO_Login();
+            u.username = Email.Text;
+            u.password = Password.Text;
+            var result = await b.Login(u);
         }
     }
 }
